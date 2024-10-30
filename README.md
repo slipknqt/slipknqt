@@ -19,5 +19,5 @@
 </p>
 
   <p align="center">
-  graphic&divider creds to zuhaoki, s-sanite and theleverethiding ^_^
+  graphic and divider creds to zuhaoki, s-sanite and theleverethiding ^_^
   </p>
